@@ -33,6 +33,4 @@ Data from additional channels would improve the reliability and robustness of th
 
 Despite potential biases due to data quality and quantity, the current results provide useful information for understanding trends related to flooding and robberies in the studied areas.
 
-Web Scraping Code
 
-Flooding data extraction process:
