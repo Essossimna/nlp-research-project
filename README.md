@@ -34,7 +34,11 @@ Data from additional channels would improve the reliability and robustness of th
 Despite potential biases due to data quality and quantity, the current results provide useful information for understanding trends related to flooding and robberies in the studied areas.
 
 
-<img width="1061" height="700" alt="image" src="https://github.com/user-attachments/assets/d00a2134-2eae-40f1-99ba-5693542d796a" />
+### Map Preview
+Below is a snapshot of the map used in this project.
+<img width="1224" height="680" alt="image" src="https://github.com/user-attachments/assets/0bcf3b59-5f0a-4ac8-a920-4e44d92830ab" />
+
+
 
 
 
